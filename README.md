@@ -1,0 +1,1 @@
+The document `psad-sthlm3mri.pdf` contains additional information on the secondary analysis in the manuscript entitled "_PSA density as a selection tool before MRI in prostate cancer screening: an analysis from the STHLM3-MRI randomized clinical trial_" (Björnebo et al., 2025).
